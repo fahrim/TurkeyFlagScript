@@ -16,7 +16,7 @@
     // Make sure the above @connect comment points to your domain.
     // Multiple copies of this script can be used at the same time.
     // The overlay should update live if you update the image on your server.
-    const URL = "https://smarteknoloji.com/place/TurkeyFlag.png";
+    const URL = "https://smarteknoloji.com/place/TurkeyFlag-new.png";
 
     const getData = async () => {
         const blob = new Blob([new Uint8Array(await new Promise(resolve =>
