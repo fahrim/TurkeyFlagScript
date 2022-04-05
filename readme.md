@@ -19,3 +19,8 @@ Aşağıdaki bağlantıya tıklayın ve Yükle'ye basın: https://smarteknoloji.
 Komut dosyası, şablonumuzu periyodik olarak yenilemek üzere ayarlanmıştır, ancak r/place'de (Shift+F5 veya Ctrl+F5) yeniden yüklemeye zorlamanız veya görünmüyorsa önbelleğinizi temizlemeniz gerekebilir.
 
 Ortadaki küçük pikselin rengi amaçlanan renktir.
+
+
+
+# Old Non-script method
+Link: https://moon-chain.github.io/rplace-turkey/anitkabir/
